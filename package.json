@@ -23,16 +23,16 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "bluebird": "^3.0.5",
-    "express": "^4.13.3",
+    "express": "^5.2.1",
     "oauth2-server": "3.0.0"
   },
   "devDependencies": {
-    "body-parser": "^1.14.1",
+    "body-parser": "^2.2.2",
     "jshint": "^2.8.0",
-    "mocha": "^11.7.5",
-    "should": "^7.1.0",
-    "sinon": "^1.14.1",
-    "supertest": "^0.15.0"
+    "mocha": "^12.0.3",
+    "should": "^13.2.3",
+    "sinon": "^22.1.0",
+    "supertest": "^7.2.2"
   },
   "engines": {
     "node": ">=0.11"
